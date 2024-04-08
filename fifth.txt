@@ -1,0 +1,6 @@
+Hello all,
+
+this is a first GIT experiment i am doing.
+
+thanks,
+Subhasish dhikary
